@@ -10,7 +10,8 @@ module.exports = {
     'semi': ['error', 'never'],
     'react/prop-types': 'off',
     'comma-dangle': 'off',
-    'max-len': 'off'
+    'max-len': 'off',
+    'react/prefer-stateless-function': 'off'
   },
   'globals': {
     'fetch': false,
